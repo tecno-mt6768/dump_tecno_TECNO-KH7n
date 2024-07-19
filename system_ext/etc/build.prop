@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=TECNO
+ro.product.system_ext.device=TECNO-KH7n
+ro.product.system_ext.manufacturer=TECNO
+ro.product.system_ext.model=TECNO KH7n
+ro.product.system_ext.name=KH7n-RU
+ro.product.system_ext.tran.device.name.default=TECNO SPARK 9 Pro
+ro.system_ext.build.date=Tue Apr 16 19:06:49 CST 2024
+ro.system_ext.build.date.utc=1713265609
+ro.system_ext.build.fingerprint=TECNO/KH7n-RU/TECNO-KH7n:12/SP1A.210812.016/240416V1698:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=240416V1698
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
